@@ -34,4 +34,4 @@ public class Solution {
     }
 }
 
-//Runtime: 2ms
+//Runtime: 2ms, still not the most efficient, due to, existence of 2 for cicle;
